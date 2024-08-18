@@ -23,7 +23,6 @@ Our course is structured into several modules:
 - **Bringing AI Products to Life**: Productionizing ML models, AI product testing and quality assurance, and user experience design for AI products.
 - **Measuring and Optimizing AI Products**: Measuring success of AI products and understanding trade-offs in AI product development.
 - **Building and Managing AI Teams**: People and skills required in AI product teams.
-- **Navigating the AI Landscape**: Legal and regulatory considerations, and future trends in AI product management.
 - **Real-world Applications**: Case studies and practical applications of AI product management.
 
 This repository contains all the projects, code templates, and resources you need to complete the course. Each project is designed to help you apply the concepts you learn in the course to real-world scenarios. You can use the provided code templates to build your projects and enhance your skills in AI product management.
