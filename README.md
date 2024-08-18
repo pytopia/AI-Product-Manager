@@ -26,18 +26,9 @@ Our course is structured into several modules:
 - **Navigating the AI Landscape**: Legal and regulatory considerations, and future trends in AI product management.
 - **Real-world Applications**: Case studies and practical applications of AI product management.
 
-Additional topics covered include:
+This repository contains all the projects, code templates, and resources you need to complete the course. Each project is designed to help you apply the concepts you learn in the course to real-world scenarios. You can use the provided code templates to build your projects and enhance your skills in AI product management.
 
-- Ethics in AI Product Management
-- AI Infrastructure and Architecture
-- AI Product Governance
-- Stakeholder Management in AI Projects
-- AI Product Monetization Strategies
-- AI Product Analytics and Monitoring
-- Open Source and Third-party AI Tools
-- AI Product Security
-- Internationalization and Localization of AI Products
-- AI Product Launch and Go-to-Market Strategies
+<img src="./images/pytopia-course.png" width="800">
 
 # 🚦 Getting Started
 To start using the projects in this repository:
